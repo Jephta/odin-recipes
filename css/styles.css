@@ -1,0 +1,29 @@
+/* styles.css */
+
+.backgound-color {
+  background-color: orange;
+  color:blue;
+}
+
+p {
+	font-size: 15px;
+	font-style: normal;
+	font-family: Tahoma, Verdana, sans-serif;
+}
+
+ul {
+	font-size: 15px;
+	font-style: normal;
+	font-family: Tahoma, Verdana, sans-serif;
+}
+
+ol {
+	font-size: 15px;
+	font-style: normal;
+	font-family: Tahoma, Verdana, sans-serif;
+}
+
+img {
+	height: auto;
+	width: 300px
+}
